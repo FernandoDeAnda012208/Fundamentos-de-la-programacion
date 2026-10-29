@@ -1,0 +1,333 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Mrpj9p5TqY0oWGpZl-Le">
+    <mxGraphModel dx="3402" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HInrc6OroJZa3c2N0L-X-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="300" width="950" x="-30" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="280" width="540" x="175" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="520" width="640" x="-540" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-3" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lavadora" vertex="1">
+          <mxGeometry height="210" width="160" x="-500" y="260" as="geometry">
+            <mxRectangle height="30" width="90" x="20" y="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-4" parent="Q0WSybTIYB_2n8tFdKTe-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Capacidad&lt;div&gt;Marca&lt;/div&gt;&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Material&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-5" parent="Q0WSybTIYB_2n8tFdKTe-3" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-6" parent="Q0WSybTIYB_2n8tFdKTe-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Lavar()&lt;div&gt;Cambiar agua()&lt;/div&gt;&lt;div&gt;Colocar detergente()&lt;/div&gt;&lt;div&gt;Encender()&lt;/div&gt;&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Cambiar velocidad()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102" width="160" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-8" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Puerta" vertex="1">
+          <mxGeometry height="220" width="160" x="-300" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-9" parent="Q0WSybTIYB_2n8tFdKTe-8" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Tamaño&lt;div&gt;Tipo de madera&lt;/div&gt;&lt;div&gt;Color de pintura (si la tiene)&lt;/div&gt;&lt;div&gt;Barniz&lt;/div&gt;&lt;div&gt;Diseño&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-10" parent="Q0WSybTIYB_2n8tFdKTe-8" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-11" parent="Q0WSybTIYB_2n8tFdKTe-8" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir seguro()&lt;/div&gt;&lt;div&gt;Cerrar Seguro()&lt;/div&gt;&lt;div&gt;Colocar llave()&lt;/div&gt;&lt;div&gt;Sacar llave()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-12" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Pc" vertex="1">
+          <mxGeometry height="240" width="160" x="-110" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-13" parent="Q0WSybTIYB_2n8tFdKTe-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Diseño de Gabinete&lt;div&gt;Procesador&lt;/div&gt;&lt;div&gt;RAM&lt;/div&gt;&lt;div&gt;Grafica (o integrados)&lt;/div&gt;&lt;div&gt;Placa base&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sistema de refrigeracion&lt;/div&gt;&lt;div&gt;Almacenamiento&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cableado&lt;/div&gt;&lt;div&gt;Fuente de poder&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="144" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-14" parent="Q0WSybTIYB_2n8tFdKTe-12" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-15" parent="Q0WSybTIYB_2n8tFdKTe-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Encender()&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Procesos()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="160" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-16" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Ventana" vertex="1">
+          <mxGeometry height="190" width="160" x="-500" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-17" parent="Q0WSybTIYB_2n8tFdKTe-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Tamaño&lt;div&gt;Grosor&lt;/div&gt;&lt;div&gt;Color del marco&lt;/div&gt;&lt;div&gt;Grosor del marco&lt;/div&gt;&lt;div&gt;Color y diseño del marco&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-18" parent="Q0WSybTIYB_2n8tFdKTe-16" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-19" parent="Q0WSybTIYB_2n8tFdKTe-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir pasador()&lt;/div&gt;&lt;div&gt;Cerrar pasador()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-20" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Manguera" vertex="1">
+          <mxGeometry height="190" width="160" x="-300" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-21" parent="Q0WSybTIYB_2n8tFdKTe-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Grosor&amp;nbsp;&lt;div&gt;Largo&lt;/div&gt;&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Material&lt;/div&gt;&lt;div&gt;Conexion a la llave&lt;/div&gt;&lt;div&gt;Tipo de salida del agua&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-22" parent="Q0WSybTIYB_2n8tFdKTe-20" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-23" parent="Q0WSybTIYB_2n8tFdKTe-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir llave()&lt;div&gt;Cerrar llave()&lt;/div&gt;&lt;div&gt;Tipo de chorro()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="160" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-24" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Freidora de aire" vertex="1">
+          <mxGeometry height="174" width="160" x="-106" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-25" parent="Q0WSybTIYB_2n8tFdKTe-24" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Color&amp;nbsp;&lt;/div&gt;&lt;div&gt;Marca&amp;nbsp;&lt;/div&gt;&lt;div&gt;Espacio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-26" parent="Q0WSybTIYB_2n8tFdKTe-24" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0WSybTIYB_2n8tFdKTe-27" parent="Q0WSybTIYB_2n8tFdKTe-24" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir freidora()&lt;div&gt;Cerrar freidora()&lt;/div&gt;&lt;div&gt;Ingresar tiempo de freído()&lt;/div&gt;&lt;div&gt;Empezar a freir()&lt;/div&gt;&lt;div&gt;Detener el freido&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="160" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Clases&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="-320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="540" x="170" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Objetos&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="345" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-4" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lavadora 1" vertex="1">
+          <mxGeometry height="210" width="160" x="180" y="250" as="geometry">
+            <mxRectangle height="30" width="90" x="20" y="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-5" parent="HInrc6OroJZa3c2N0L-X-4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Capacidad: 20KG&lt;div&gt;Marca: Samsung&lt;/div&gt;&lt;div&gt;Color: Gris&lt;/div&gt;&lt;div&gt;Material: Acero&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-6" parent="HInrc6OroJZa3c2N0L-X-4" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-7" parent="HInrc6OroJZa3c2N0L-X-4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Lavar()&lt;div&gt;Cambiar agua()&lt;/div&gt;&lt;div&gt;Colocar detergente()&lt;/div&gt;&lt;div&gt;Encender()&lt;/div&gt;&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Cambiar velocidad()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102" width="160" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-8" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lavadora 2" vertex="1">
+          <mxGeometry height="210" width="160" x="360" y="250" as="geometry">
+            <mxRectangle height="30" width="90" x="20" y="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-9" parent="HInrc6OroJZa3c2N0L-X-8" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Capacidad: 18KG&lt;div&gt;Marca: Whirlpool&lt;/div&gt;&lt;div&gt;Color: Blanco&lt;/div&gt;&lt;div&gt;Material: Acero&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-10" parent="HInrc6OroJZa3c2N0L-X-8" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-11" parent="HInrc6OroJZa3c2N0L-X-8" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Lavar()&lt;div&gt;Cambiar agua()&lt;/div&gt;&lt;div&gt;Colocar detergente()&lt;/div&gt;&lt;div&gt;Encender()&lt;/div&gt;&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Cambiar velocidad()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102" width="160" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-12" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Lavadora 3" vertex="1">
+          <mxGeometry height="210" width="160" x="540" y="250" as="geometry">
+            <mxRectangle height="30" width="90" x="20" y="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-13" parent="HInrc6OroJZa3c2N0L-X-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Capacidad: 18KG&lt;div&gt;Marca: Mabe&lt;/div&gt;&lt;div&gt;Color: Blanco&lt;/div&gt;&lt;div&gt;Material: Acero&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-14" parent="HInrc6OroJZa3c2N0L-X-12" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-15" parent="HInrc6OroJZa3c2N0L-X-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Lavar()&lt;div&gt;Cambiar agua()&lt;/div&gt;&lt;div&gt;Colocar detergente()&lt;/div&gt;&lt;div&gt;Encender()&lt;/div&gt;&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Cambiar velocidad()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102" width="160" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-16" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Puerta 1" vertex="1">
+          <mxGeometry height="250" width="160" x="185" y="517" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-17" parent="HInrc6OroJZa3c2N0L-X-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Tamaño: 90cm * 2.1m&lt;div&gt;Tipo de madera: Colonial maple&lt;/div&gt;&lt;div&gt;Color de pintura: no&lt;/div&gt;&lt;div&gt;Barniz: Poliuretano&lt;/div&gt;&lt;div&gt;Diseño: Medieval&lt;/div&gt;" vertex="1">
+          <mxGeometry height="114" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-18" parent="HInrc6OroJZa3c2N0L-X-16" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-19" parent="HInrc6OroJZa3c2N0L-X-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir seguro()&lt;/div&gt;&lt;div&gt;Cerrar Seguro()&lt;/div&gt;&lt;div&gt;Colocar llave()&lt;/div&gt;&lt;div&gt;Sacar llave()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102" width="160" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-24" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Puerta 3" vertex="1">
+          <mxGeometry height="220" width="160" x="540" y="517" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-25" parent="HInrc6OroJZa3c2N0L-X-24" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Tamaño:&amp;nbsp;&amp;nbsp;90cm * 2.1m&lt;div&gt;Tipo de madera: Natural&lt;/div&gt;&lt;div&gt;Color de pintura: Blanco&lt;/div&gt;&lt;div&gt;Barniz: No&lt;/div&gt;&lt;div&gt;Diseño: Oficina&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-26" parent="HInrc6OroJZa3c2N0L-X-24" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-27" parent="HInrc6OroJZa3c2N0L-X-24" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir seguro()&lt;/div&gt;&lt;div&gt;Cerrar Seguro()&lt;/div&gt;&lt;div&gt;Colocar llave()&lt;/div&gt;&lt;div&gt;Sacar llave()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-29" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Puerta 2" vertex="1">
+          <mxGeometry height="220" width="160" x="360" y="517" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-30" parent="HInrc6OroJZa3c2N0L-X-29" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Tamaño:&amp;nbsp;&amp;nbsp;90cm * 2.1m&lt;div&gt;Tipo de madera: Red Oak&lt;/div&gt;&lt;div&gt;Color de pintura: no&lt;/div&gt;&lt;div&gt;Barniz: Poliuretano&lt;/div&gt;&lt;div&gt;Diseño: Oriental&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-31" parent="HInrc6OroJZa3c2N0L-X-29" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-32" parent="HInrc6OroJZa3c2N0L-X-29" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir seguro()&lt;/div&gt;&lt;div&gt;Cerrar Seguro()&lt;/div&gt;&lt;div&gt;Colocar llave()&lt;/div&gt;&lt;div&gt;Sacar llave()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-33" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Pc 1" vertex="1">
+          <mxGeometry height="240" width="285" x="-10" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-34" parent="HInrc6OroJZa3c2N0L-X-33" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Diseño de Gabinete: Asus ProArt&lt;div&gt;Procesador: Ryzen 7 5700x&lt;/div&gt;&lt;div&gt;RAM: 64GB&lt;/div&gt;&lt;div&gt;Grafica (o integrados): RTX 5080 Super&lt;/div&gt;&lt;div&gt;Placa base: ASUS RogStrix B550&lt;/div&gt;&lt;div&gt;Sistema de refrigeracion: Asus ProArt LC240&lt;/div&gt;&lt;div&gt;Almacenamiento: 3TB&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cableado&lt;/div&gt;&lt;div&gt;Fuente de poder: Corsair RM1000x&lt;/div&gt;" vertex="1">
+          <mxGeometry height="144" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-35" parent="HInrc6OroJZa3c2N0L-X-33" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-36" parent="HInrc6OroJZa3c2N0L-X-33" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Encender()&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Procesos()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="285" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-47" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Pc 2" vertex="1">
+          <mxGeometry height="240" width="285" x="300" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-48" parent="HInrc6OroJZa3c2N0L-X-47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Diseño de Gabinete: MSI Mega Maestro&lt;div&gt;Procesador: Ryzen 9 9950x3D&lt;/div&gt;&lt;div&gt;RAM: 32GB&lt;/div&gt;&lt;div&gt;Grafica (o integrados): Integrados&amp;nbsp;&lt;/div&gt;&lt;div&gt;Placa base: MSI MAG X870E&lt;/div&gt;&lt;div&gt;Sistema de refrigeracion: Noctua NH-D15&lt;/div&gt;&lt;div&gt;Almacenamiento: 2TB&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cableado&lt;/div&gt;&lt;div&gt;Fuente de poder: ADATA XPG 650w&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="144" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-49" parent="HInrc6OroJZa3c2N0L-X-47" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-50" parent="HInrc6OroJZa3c2N0L-X-47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Encender()&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Procesos()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="285" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-51" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Pc 3" vertex="1">
+          <mxGeometry height="240" width="285" x="610" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-52" parent="HInrc6OroJZa3c2N0L-X-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Diseño de Gabinete: Cooler master Qube 540&lt;div&gt;Procesador: Ryzen 5600g&lt;/div&gt;&lt;div&gt;RAM: 32GB&lt;/div&gt;&lt;div&gt;Grafica (o integrados): RTX 5060&lt;/div&gt;&lt;div&gt;Placa base: Asus Prime B550 Plus&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sistema de refrigeracion: Noctua NH-D15&lt;/div&gt;&lt;div&gt;Almacenamiento: 1TB&lt;/div&gt;&lt;div&gt;Cableado&lt;/div&gt;&lt;div&gt;Fuente de poder: ADATA XPG 650w&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="144" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-53" parent="HInrc6OroJZa3c2N0L-X-51" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HInrc6OroJZa3c2N0L-X-54" parent="HInrc6OroJZa3c2N0L-X-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Encender()&lt;div&gt;Apagar()&lt;/div&gt;&lt;div&gt;Procesos()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="285" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-marco-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="254" width="950" x="-30" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-0-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Ventana 1" vertex="1">
+          <mxGeometry height="214" width="285" x="-10" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-0-1" parent="completar-16-0-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Tamaño: 1.2m * 1m&lt;/div&gt;&lt;div&gt;Grosor: 6mm&lt;/div&gt;&lt;div&gt;Color del marco: Blanco&lt;/div&gt;&lt;div&gt;Grosor del marco: 4cm&lt;/div&gt;&lt;div&gt;Color y diseño del marco: Blanco, corredizo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-0-2" parent="completar-16-0-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-0-3" parent="completar-16-0-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir pasador()&lt;/div&gt;&lt;div&gt;Cerrar pasador()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="285" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-1-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Ventana 2" vertex="1">
+          <mxGeometry height="214" width="285" x="300" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-1-1" parent="completar-16-1-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Tamaño: 1.5m * 1.2m&lt;/div&gt;&lt;div&gt;Grosor: 8mm&lt;/div&gt;&lt;div&gt;Color del marco: Negro&lt;/div&gt;&lt;div&gt;Grosor del marco: 5cm&lt;/div&gt;&lt;div&gt;Color y diseño del marco: Negro, abatible&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-1-2" parent="completar-16-1-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-1-3" parent="completar-16-1-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir pasador()&lt;/div&gt;&lt;div&gt;Cerrar pasador()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="285" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-2-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Ventana 3" vertex="1">
+          <mxGeometry height="214" width="285" x="610" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-2-1" parent="completar-16-2-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Tamaño: 0.8m * 0.6m&lt;/div&gt;&lt;div&gt;Grosor: 4mm&lt;/div&gt;&lt;div&gt;Color del marco: Café&lt;/div&gt;&lt;div&gt;Grosor del marco: 3cm&lt;/div&gt;&lt;div&gt;Color y diseño del marco: Café, de proyección&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-2-2" parent="completar-16-2-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-16-2-3" parent="completar-16-2-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir()&lt;div&gt;Cerrar()&lt;/div&gt;&lt;div&gt;Abrir pasador()&lt;/div&gt;&lt;div&gt;Cerrar pasador()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="285" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-marco-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="950" x="-30" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-0-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Manguera 1" vertex="1">
+          <mxGeometry height="200" width="285" x="-10" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-0-1" parent="completar-20-0-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Grosor: 1/2 pulgada&lt;/div&gt;&lt;div&gt;Largo: 10m&lt;/div&gt;&lt;div&gt;Color: Verde&lt;/div&gt;&lt;div&gt;Material: PVC&lt;/div&gt;&lt;div&gt;Conexion a la llave: Rosca de 3/4 pulgada&lt;/div&gt;&lt;div&gt;Tipo de salida del agua: Chorro directo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-0-2" parent="completar-20-0-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-0-3" parent="completar-20-0-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir llave()&lt;div&gt;Cerrar llave()&lt;/div&gt;&lt;div&gt;Tipo de chorro()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="285" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-1-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Manguera 2" vertex="1">
+          <mxGeometry height="200" width="285" x="300" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-1-1" parent="completar-20-1-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Grosor: 3/4 pulgada&lt;/div&gt;&lt;div&gt;Largo: 20m&lt;/div&gt;&lt;div&gt;Color: Amarillo&lt;/div&gt;&lt;div&gt;Material: Caucho&lt;/div&gt;&lt;div&gt;Conexion a la llave: Conector rápido&lt;/div&gt;&lt;div&gt;Tipo de salida del agua: Aspersión&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-1-2" parent="completar-20-1-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-1-3" parent="completar-20-1-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir llave()&lt;div&gt;Cerrar llave()&lt;/div&gt;&lt;div&gt;Tipo de chorro()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="285" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-2-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Manguera 3" vertex="1">
+          <mxGeometry height="200" width="285" x="610" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-2-1" parent="completar-20-2-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Grosor: 5/8 pulgada&lt;/div&gt;&lt;div&gt;Largo: 15m&lt;/div&gt;&lt;div&gt;Color: Azul&lt;/div&gt;&lt;div&gt;Material: PVC reforzado&lt;/div&gt;&lt;div&gt;Conexion a la llave: Rosca de 1/2 pulgada&lt;/div&gt;&lt;div&gt;Tipo de salida del agua: Regadera&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-2-2" parent="completar-20-2-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-20-2-3" parent="completar-20-2-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir llave()&lt;div&gt;Cerrar llave()&lt;/div&gt;&lt;div&gt;Tipo de chorro()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="285" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-marco-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="234" width="950" x="-30" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-0-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Freidora de aire 1" vertex="1">
+          <mxGeometry height="194" width="285" x="-10" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-0-1" parent="completar-24-0-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Color: Negro&lt;/div&gt;&lt;div&gt;Marca: Ninja&lt;/div&gt;&lt;div&gt;Espacio: 5.5L&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-0-2" parent="completar-24-0-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-0-3" parent="completar-24-0-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir freidora()&lt;div&gt;Cerrar freidora()&lt;/div&gt;&lt;div&gt;Ingresar tiempo de freído()&lt;/div&gt;&lt;div&gt;Empezar a freir()&lt;/div&gt;&lt;div&gt;Detener el freido&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="285" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-1-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Freidora de aire 2" vertex="1">
+          <mxGeometry height="194" width="285" x="300" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-1-1" parent="completar-24-1-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Color: Blanco&lt;/div&gt;&lt;div&gt;Marca: Oster&lt;/div&gt;&lt;div&gt;Espacio: 4L&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-1-2" parent="completar-24-1-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-1-3" parent="completar-24-1-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir freidora()&lt;div&gt;Cerrar freidora()&lt;/div&gt;&lt;div&gt;Ingresar tiempo de freído()&lt;/div&gt;&lt;div&gt;Empezar a freir()&lt;/div&gt;&lt;div&gt;Detener el freido&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="285" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-2-0" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Freidora de aire 3" vertex="1">
+          <mxGeometry height="194" width="285" x="610" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-2-1" parent="completar-24-2-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;Color: Gris&lt;/div&gt;&lt;div&gt;Marca: Philips&lt;/div&gt;&lt;div&gt;Espacio: 6.2L&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="285" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-2-2" parent="completar-24-2-0" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="285" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="completar-24-2-3" parent="completar-24-2-0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Abrir freidora()&lt;div&gt;Cerrar freidora()&lt;/div&gt;&lt;div&gt;Ingresar tiempo de freído()&lt;/div&gt;&lt;div&gt;Empezar a freir()&lt;/div&gt;&lt;div&gt;Detener el freido&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="285" y="108" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
