@@ -7,7 +7,7 @@ class Alumno: #creamos una clase
         print("Hola soy", self.nombre, "y mi promedio es", self.promedio)
 
     def enojo(self):
-        print("!Que me llamo", self.nombre, "cojonesh !")
+        print("!Que me llamo", self.nombre, "!")
 
 # Definimos objetos
 a1 = Alumno("Fernando", 9.2)
