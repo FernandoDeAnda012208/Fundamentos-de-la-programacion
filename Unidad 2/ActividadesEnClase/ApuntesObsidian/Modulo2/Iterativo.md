@@ -1,0 +1,1 @@
+es un adjetivo que describe algo que **se repite** o que consiste en la repetición sucesiva de un proceso con el fin de alcanzar un resultado, una meta o una mejora continua.
